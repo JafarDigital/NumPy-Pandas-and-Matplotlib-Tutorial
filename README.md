@@ -1,9 +1,9 @@
 # 📊 NumPy, Pandas & Matplotlib Tutorial
 Welcome to this comprehensive Python tutorial covering three essential libraries for data science, numerical computing, and visualization:
 
-🔹 NumPy 🧮 – Efficient numerical operations with arrays
-🔹 Pandas 📑 – Powerful data manipulation and analysis
-🔹 Matplotlib 📈 – Customizable data visualization
+🔹 NumPy – Efficient numerical operations with arrays
+🔹 Pandas – Powerful data manipulation and analysis
+🔹 Matplotlib – Customizable data visualization
 
 This tutorial provides hands-on examples, explanations, and best practices to get you started with data analysis and visualization using Python.
 
@@ -28,7 +28,7 @@ This tutorial provides hands-on examples, explanations, and best practices to ge
 🔹 Data cleaning and preprocessing techniques
 🔹 Combining NumPy, Pandas, and Matplotlib for AI-powered automation
 
-## 🚀 How to Use This Tutorial
+## How to Use This Tutorial
 🔹 Clone the Repository
 🔹 Install Dependencies: 
   pip install numpy pandas matplotlib
