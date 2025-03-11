@@ -1,37 +1,38 @@
 # 📊 NumPy, Pandas & Matplotlib Tutorial
 Welcome to this comprehensive Python tutorial covering three essential libraries for data science, numerical computing, and visualization:
 
-NumPy 🧮 – Efficient numerical operations with arrays
-Pandas 📑 – Powerful data manipulation and analysis
-Matplotlib 📈 – Customizable data visualization
+🔹 NumPy 🧮 – Efficient numerical operations with arrays
+🔹 Pandas 📑 – Powerful data manipulation and analysis
+🔹 Matplotlib 📈 – Customizable data visualization
+
 This tutorial provides hands-on examples, explanations, and best practices to get you started with data analysis and visualization using Python.
 
 ## 📌 Features & Topics Covered
 ### NumPy Basics
-Creating and manipulating arrays
-Mathematical operations on arrays
-Performance benefits over Python lists
+🔹 Creating and manipulating arrays
+🔹 Mathematical operations on arrays
+🔹 Performance benefits over Python lists
 
 ### Pandas Essentials
-Creating Series and DataFrames
-Loading and saving CSV files
-Data filtering, grouping, and transformation
+🔹 Creating Series and DataFrames
+🔹 Loading and saving CSV files
+🔹 Data filtering, grouping, and transformation
 
 ### Matplotlib Visualizations
-Creating line plots, bar charts, histograms, and scatter plots
-Customizing styles, labels, and legends
-Displaying multiple plots for comparisons
+🔹 Creating line plots, bar charts, histograms, and scatter plots
+🔹 Customizing styles, labels, and legends
+🔹 Displaying multiple plots for comparisons
 
 ### Practical Applications
-Real-world data analysis workflows
-Data cleaning and preprocessing techniques
-Combining NumPy, Pandas, and Matplotlib for AI-powered automation
+🔹 Real-world data analysis workflows
+🔹 Data cleaning and preprocessing techniques
+🔹 Combining NumPy, Pandas, and Matplotlib for AI-powered automation
 
 ## 🚀 How to Use This Tutorial
-Clone the Repository
-Install Dependencies
+🔹 Clone the Repository
+🔹 Install Dependencies: 
   pip install numpy pandas matplotlib
-Run the Tutorial
+🔹 Run the Tutorial
 
 ## 📚 Learning Outcomes
 By completing this tutorial, you will: ✔ Understand NumPy for fast numerical computations
